@@ -1,0 +1,4 @@
+D:\Прога\Lab 11 (исключения)\Lab 11\Debug\Lab 11.exe
+D:\Прога\Lab 11 (исключения)\Lab 11\Debug\Lab 11.pdb
+D:\Program\Прога\Lab 11 (исключения)\Lab 11\Debug\Lab 11.exe
+D:\Program\Прога\Lab 11 (исключения)\Lab 11\Debug\Lab 11.pdb
